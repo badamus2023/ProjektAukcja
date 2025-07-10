@@ -1,0 +1,13 @@
+[ {
+  "name" : "test",
+  "password" : "test",
+  "valet" : 1120.0
+}, {
+  "name" : "test2",
+  "password" : "test2",
+  "valet" : 880.0
+}, {
+  "name" : "test3",
+  "password" : "test3",
+  "valet" : 700.0
+} ]

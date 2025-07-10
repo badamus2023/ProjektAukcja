@@ -1,0 +1,25 @@
+[ {
+  "timeToEnd" : "2025-07-03T17:34:23.6734335",
+  "id" : 1,
+  "product" : "test1",
+  "actualPrice" : 120.0,
+  "ownerName" : "test",
+  "highestBidder" : "test2",
+  "status" : "FINISHED"
+}, {
+  "timeToEnd" : "2025-07-03T17:39:05.566399",
+  "id" : 2,
+  "product" : "test2",
+  "actualPrice" : 125.0,
+  "ownerName" : "test2",
+  "highestBidder" : "",
+  "status" : "ACTIVE"
+}, {
+  "timeToEnd" : "2025-07-03T17:40:13.5048461",
+  "id" : 3,
+  "product" : "test3",
+  "actualPrice" : 300.0,
+  "ownerName" : "test",
+  "highestBidder" : "test3",
+  "status" : "ACTIVE"
+} ]
